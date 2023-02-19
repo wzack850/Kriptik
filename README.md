@@ -2,8 +2,17 @@
 DOCUMENTATION COMING SOON
 
 # Installation
+```py
+pip install kriptik==0.0.5
 ```
-pip install kriptik
+
+Importing
+```py
+from kriptik import kriptik as kr
+```
+Or
+```py
+import kriptik.kriptik as kr
 ```
 
 # Versions
