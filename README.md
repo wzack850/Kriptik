@@ -6,7 +6,7 @@ DOCUMENTATION COMING SOON
 pip install kriptik==0.0.5
 ```
 
-Importing
+# Importing
 ```py
 from kriptik import kriptik as kr
 ```
